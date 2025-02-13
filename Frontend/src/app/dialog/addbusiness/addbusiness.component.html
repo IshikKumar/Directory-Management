@@ -1,0 +1,139 @@
+<div class="main">
+  <div class="cancelout" (click)="closeDialog()"><span>X</span></div>
+  <div class="heading">
+    <h1>{{data?'Edit Business':'Add Business'}}</h1>
+  </div>
+
+  <div class="displayform">
+    <form [formGroup]="businessForm" (ngSubmit)="!data?onSubmit():onUpdate()">
+      <div class="forminputs">
+        <div class="item">
+          <mat-label>BUSINESS NAME <span style="color: red;">*</span></mat-label>
+
+          <mat-form-field appearance="outline">
+            <input matInput formControlName="name" placeholder="Enter Business Name" />
+            <mat-error *ngIf="businessForm.get('name')?.hasError('required') && businessForm.get('name')?.touched">
+              Business Name is required
+            </mat-error>
+          </mat-form-field>
+        </div>
+
+        <div class="item">
+          <mat-label>CATEGORY <span style="color: red;">*</span></mat-label>
+          <mat-form-field appearance="outline">
+            <mat-select formControlName="categoryID" placeholder="Select Category">
+              <mat-option *ngFor="let category of categories" [value]="category.categoryID">{{ category.name }}</mat-option>
+            </mat-select>
+            <mat-error *ngIf="businessForm.get('categoryID')?.hasError('required') && businessForm.get('categoryID')?.touched">
+              Category is required
+            </mat-error>
+          </mat-form-field>
+        </div>
+
+        <div class="item">
+          <!-- <mat-label>STREET ADDRESS</mat-label>
+          <mat-form-field appearance="outline">
+            <textarea matInput formControlName="address" placeholder="Enter Street Address"></textarea>
+          </mat-form-field> -->
+          <mat-label>STREET ADDRESS</mat-label>
+          <mat-form-field appearance="outline">
+         
+            <textarea matInput
+            cdkTextareaAutosize
+            formControlName="address" 
+            #autosize="cdkTextareaAutosize"
+            cdkAutosizeMinRows="1"
+            cdkAutosizeMaxRows="1" placeholder="Enter Street Address"></textarea>
+         
+          </mat-form-field>
+
+        </div>
+      </div>
+
+      <div class="forminputs">
+        <div class="item">
+          <mat-label>CITY <span style="color: red;">*</span></mat-label>
+          <mat-form-field appearance="outline">
+            <input matInput formControlName="city" placeholder="Enter City" />
+            <mat-error *ngIf="businessForm.get('city')?.hasError('pattern') && businessForm.get('city')?.touched">
+              City must contain only letters
+            </mat-error>
+            <mat-error *ngIf="businessForm.get('city')?.hasError('required') && businessForm.get('city')?.touched">
+              City IS required
+            </mat-error>
+          </mat-form-field>
+        </div>
+
+        <div class="item">
+          <mat-label>STATE <span style="color: red;">*</span></mat-label>
+          <mat-form-field appearance="outline">
+            <input matInput formControlName="state" placeholder="Enter State" />
+            <mat-error *ngIf="businessForm.get('state')?.hasError('pattern') && businessForm.get('state')?.touched">
+              State must contain only letters
+            </mat-error>
+            <mat-error *ngIf="businessForm.get('state')?.hasError('required') && businessForm.get('state')?.touched">
+              State is required
+            </mat-error>
+          </mat-form-field>
+        </div>
+
+        <div class="item">
+          <mat-label>ZIP CODE <span style="color: red;">*</span></mat-label>
+          <mat-form-field appearance="outline">
+            <input matInput formControlName="zipCode" placeholder="Enter Zip Code" />
+            <mat-error *ngIf="businessForm.get('zipCode')?.hasError('pattern') && businessForm.get('zipCode')?.touched">
+              Enter a valid 6-digit Zip Code
+            </mat-error>
+            <mat-error *ngIf="businessForm.get('zipCode')?.hasError('required') && businessForm.get('zipCode')?.touched">
+              Zip Code is required
+            </mat-error>
+          </mat-form-field>
+        </div>
+      </div>
+
+      <div class="forminputs">
+        <div class="item">
+          <mat-label>PHONE NUMBER <span style="color: red;">*</span></mat-label>
+          <mat-form-field appearance="outline">
+            <input matInput formControlName="phoneNumber" placeholder="Enter Phone Number" />
+            <mat-error *ngIf="businessForm.get('phoneNumber')?.hasError('required') && businessForm.get('phoneNumber')?.touched">
+              Phone Number is required
+            </mat-error>
+            <mat-error *ngIf="businessForm.get('phoneNumber')?.hasError('pattern') && businessForm.get('phoneNumber')?.touched">
+              Enter a valid Indian phone number
+            </mat-error>
+          </mat-form-field>
+        </div>
+
+        <div class="item">
+          <mat-label>WEBSITE</mat-label>
+          <mat-form-field appearance="outline">
+            <input matInput formControlName="website" placeholder="Enter Website" />
+            <mat-error *ngIf="businessForm.get('website')?.hasError('pattern') && businessForm.get('website')?.touched">
+              Enter a valid URL (starting with http or https)
+            </mat-error>
+          </mat-form-field>
+        </div>
+
+        <div class="item">
+          <mat-label>RATING</mat-label>
+          <mat-form-field appearance="outline">
+            <input matInput formControlName="rating" placeholder="Enter Rating (1-5)" type="number" />
+            <mat-error *ngIf="businessForm.get('rating')?.hasError('min') && businessForm.get('rating')?.touched">
+              Rating must be at least 1
+            </mat-error>
+            <mat-error *ngIf="businessForm.get('rating')?.hasError('max') && businessForm.get('rating')?.touched">
+              Rating must not exceed 5
+            </mat-error>
+          </mat-form-field>
+        </div>
+      </div>
+
+      <div class="buttons">
+        <button class="btn1" type="button" (click)="closeDialog()">Cancel</button>
+        <button class="btn2" type="submit" *ngIf="!data">Save</button>
+        <button class="btn2" type="submit" *ngIf="data">Update</button>
+      </div>
+    </form>
+  </div>
+</div>

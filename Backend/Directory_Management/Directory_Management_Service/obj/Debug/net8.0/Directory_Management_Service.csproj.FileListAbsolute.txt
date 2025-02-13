@@ -1,0 +1,415 @@
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.deps.json
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.runtimeconfig.json
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.exe
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.deps.json
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.runtimeconfig.json
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.exe
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.exe
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.deps.json
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.runtimeconfig.json
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.pdb
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\AutoMapper.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Azure.Core.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Azure.Identity.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Dapper.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\System.ClientModel.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\System.Memory.Data.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.pdb
+E:\ISHIK\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.pdb
+E:\ISHIK\Directory_Management\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.csproj.AssemblyReference.cache
+E:\ISHIK\Directory_Management\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\ISHIK\Directory_Management\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.AssemblyInfoInputs.cache
+E:\ISHIK\Directory_Management\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.AssemblyInfo.cs
+E:\ISHIK\Directory_Management\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.csproj.CoreCompileInputs.cache
+E:\ISHIK\Directory_Management\Directory_Management_Service\obj\Debug\net8.0\Director.C41A660F.Up2Date
+E:\ISHIK\Directory_Management\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\obj\Debug\net8.0\refint\Directory_Management_Service.dll
+E:\ISHIK\Directory_Management\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.pdb
+E:\ISHIK\Directory_Management\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.genruntimeconfig.cache
+E:\ISHIK\Directory_Management\Directory_Management_Service\obj\Debug\net8.0\ref\Directory_Management_Service.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.csproj.AssemblyReference.cache
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.AssemblyInfoInputs.cache
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.AssemblyInfo.cs
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.csproj.CoreCompileInputs.cache
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\obj\Debug\net8.0\refint\Directory_Management_Service.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.pdb
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.deps.json
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.runtimeconfig.json
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.exe
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.deps.json
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.runtimeconfig.json
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.exe
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.exe
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.deps.json
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.runtimeconfig.json
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.pdb
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\AutoMapper.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Azure.Core.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Azure.Identity.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Dapper.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\System.ClientModel.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\System.Memory.Data.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.pdb
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.pdb
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\obj\Debug\net8.0\Director.C41A660F.Up2Date
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.genruntimeconfig.cache
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Service\obj\Debug\net8.0\ref\Directory_Management_Service.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.deps.json
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.runtimeconfig.json
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.exe
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.deps.json
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.runtimeconfig.json
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.exe
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.exe
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.deps.json
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.runtimeconfig.json
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.pdb
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\AutoMapper.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Azure.Core.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Azure.Identity.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Dapper.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\System.ClientModel.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.pdb
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.pdb
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.csproj.AssemblyReference.cache
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.AssemblyInfoInputs.cache
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.AssemblyInfo.cs
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.csproj.CoreCompileInputs.cache
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\obj\Debug\net8.0\Director.C41A660F.Up2Date
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\obj\Debug\net8.0\refint\Directory_Management_Service.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.pdb
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.genruntimeconfig.cache
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Service\obj\Debug\net8.0\ref\Directory_Management_Service.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.deps.json
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.runtimeconfig.json
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.exe
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.deps.json
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.runtimeconfig.json
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.exe
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.exe
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.deps.json
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.runtimeconfig.json
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.pdb
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\AutoMapper.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Azure.Core.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Azure.Identity.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Dapper.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\System.ClientModel.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.pdb
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.pdb
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.csproj.AssemblyReference.cache
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.AssemblyInfoInputs.cache
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.AssemblyInfo.cs
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.csproj.CoreCompileInputs.cache
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\obj\Debug\net8.0\Director.C41A660F.Up2Date
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\obj\Debug\net8.0\refint\Directory_Management_Service.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.pdb
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.genruntimeconfig.cache
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Service\obj\Debug\net8.0\ref\Directory_Management_Service.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.deps.json
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.runtimeconfig.json
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.exe
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.deps.json
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.runtimeconfig.json
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.exe
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.exe
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.deps.json
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.runtimeconfig.json
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Service.pdb
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\AutoMapper.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Azure.Core.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Azure.Identity.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Dapper.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\System.ClientModel.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Data.pdb
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\bin\Debug\net8.0\Directory_Management_Repository.pdb
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.csproj.AssemblyReference.cache
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.AssemblyInfoInputs.cache
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.AssemblyInfo.cs
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.csproj.CoreCompileInputs.cache
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\obj\Debug\net8.0\Director.C41A660F.Up2Date
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\obj\Debug\net8.0\refint\Directory_Management_Service.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.pdb
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\obj\Debug\net8.0\Directory_Management_Service.genruntimeconfig.cache
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Service\obj\Debug\net8.0\ref\Directory_Management_Service.dll

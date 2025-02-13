@@ -1,0 +1,145 @@
+E:\ISHIK\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.exe
+E:\ISHIK\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.deps.json
+E:\ISHIK\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.runtimeconfig.json
+E:\ISHIK\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.dll
+E:\ISHIK\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.pdb
+E:\ISHIK\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\ISHIK\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ISHIK\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ISHIK\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ISHIK\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ISHIK\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ISHIK\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ISHIK\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ISHIK\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\ISHIK\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ISHIK\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\ISHIK\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\ISHIK\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\ISHIK\Directory_Management\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.csproj.AssemblyReference.cache
+E:\ISHIK\Directory_Management\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\ISHIK\Directory_Management\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.AssemblyInfoInputs.cache
+E:\ISHIK\Directory_Management\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.AssemblyInfo.cs
+E:\ISHIK\Directory_Management\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.csproj.CoreCompileInputs.cache
+E:\ISHIK\Directory_Management\Directory_Management_Data\obj\Debug\net8.0\Director.E9191A01.Up2Date
+E:\ISHIK\Directory_Management\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.dll
+E:\ISHIK\Directory_Management\Directory_Management_Data\obj\Debug\net8.0\refint\Directory_Management_Data.dll
+E:\ISHIK\Directory_Management\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.pdb
+E:\ISHIK\Directory_Management\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.genruntimeconfig.cache
+E:\ISHIK\Directory_Management\Directory_Management_Data\obj\Debug\net8.0\ref\Directory_Management_Data.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.exe
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.deps.json
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.runtimeconfig.json
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.pdb
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.csproj.AssemblyReference.cache
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.AssemblyInfoInputs.cache
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.AssemblyInfo.cs
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.csproj.CoreCompileInputs.cache
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\obj\Debug\net8.0\Director.E9191A01.Up2Date
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\obj\Debug\net8.0\refint\Directory_Management_Data.dll
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.pdb
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.genruntimeconfig.cache
+E:\ISHIK\Directory_Management - Copy (2)\Directory_Management_Data\obj\Debug\net8.0\ref\Directory_Management_Data.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.exe
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.deps.json
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.runtimeconfig.json
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.pdb
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.csproj.AssemblyReference.cache
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.AssemblyInfoInputs.cache
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.AssemblyInfo.cs
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.csproj.CoreCompileInputs.cache
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\obj\Debug\net8.0\Director.E9191A01.Up2Date
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\obj\Debug\net8.0\refint\Directory_Management_Data.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.pdb
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.genruntimeconfig.cache
+E:\Directory_Management\Backend\Directory_Management - Copy (2)\Directory_Management_Data\obj\Debug\net8.0\ref\Directory_Management_Data.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.exe
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.deps.json
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.runtimeconfig.json
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.pdb
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.csproj.AssemblyReference.cache
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.AssemblyInfoInputs.cache
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.AssemblyInfo.cs
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.csproj.CoreCompileInputs.cache
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\obj\Debug\net8.0\Director.E9191A01.Up2Date
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\obj\Debug\net8.0\refint\Directory_Management_Data.dll
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.pdb
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.genruntimeconfig.cache
+E:\Directory_Management\Backend\Directory_Management - Copy (2) - Copy\Directory_Management_Data\obj\Debug\net8.0\ref\Directory_Management_Data.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.exe
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.deps.json
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.runtimeconfig.json
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Directory_Management_Data.pdb
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.csproj.AssemblyReference.cache
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.AssemblyInfoInputs.cache
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.AssemblyInfo.cs
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.csproj.CoreCompileInputs.cache
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\obj\Debug\net8.0\Director.E9191A01.Up2Date
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\obj\Debug\net8.0\refint\Directory_Management_Data.dll
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.pdb
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\obj\Debug\net8.0\Directory_Management_Data.genruntimeconfig.cache
+E:\Directory_Management\Backend\Directory_Management\Directory_Management_Data\obj\Debug\net8.0\ref\Directory_Management_Data.dll

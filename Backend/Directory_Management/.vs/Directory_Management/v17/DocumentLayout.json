@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Directory_Management\\Backend\\Directory_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE50DD5A-C758-4835-B6D7-DF526C4C35DC}|Directory_Management\\Directory_Management.csproj|e:\\directory_management\\backend\\directory_management\\directory_management\\controllers\\businesslistingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE50DD5A-C758-4835-B6D7-DF526C4C35DC}|Directory_Management\\Directory_Management.csproj|solutionrelative:directory_management\\controllers\\businesslistingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFC25FC-8B89-4020-B638-50AAA945DBA6}|Directory_Management_Repository\\Directory_Management_Repository.csproj|e:\\directory_management\\backend\\directory_management\\directory_management_repository\\repositories\\businesslistingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CFC25FC-8B89-4020-B638-50AAA945DBA6}|Directory_Management_Repository\\Directory_Management_Repository.csproj|solutionrelative:directory_management_repository\\repositories\\businesslistingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D261F7-9E8E-4AF8-8FAD-279BADED5404}|Directory_Management_Data\\Directory_Management_Data.csproj|e:\\directory_management\\backend\\directory_management\\directory_management_data\\dtos\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D261F7-9E8E-4AF8-8FAD-279BADED5404}|Directory_Management_Data\\Directory_Management_Data.csproj|solutionrelative:directory_management_data\\dtos\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE50DD5A-C758-4835-B6D7-DF526C4C35DC}|Directory_Management\\Directory_Management.csproj|e:\\directory_management\\backend\\directory_management\\directory_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE50DD5A-C758-4835-B6D7-DF526C4C35DC}|Directory_Management\\Directory_Management.csproj|solutionrelative:directory_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 565,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BusinessListingRepo.cs",
+              "DocumentMoniker": "E:\\Directory_Management\\Backend\\Directory_Management\\Directory_Management_Repository\\Repositories\\BusinessListingRepo.cs",
+              "RelativeDocumentMoniker": "Directory_Management_Repository\\Repositories\\BusinessListingRepo.cs",
+              "ToolTip": "E:\\Directory_Management\\Backend\\Directory_Management\\Directory_Management_Repository\\Repositories\\BusinessListingRepo.cs",
+              "RelativeToolTip": "Directory_Management_Repository\\Repositories\\BusinessListingRepo.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAuwEwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:24:24.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "E:\\Directory_Management\\Backend\\Directory_Management\\Directory_Management_Data\\DTOs\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "Directory_Management_Data\\DTOs\\CategoryModel.cs",
+              "ToolTip": "E:\\Directory_Management\\Backend\\Directory_Management\\Directory_Management_Data\\DTOs\\CategoryModel.cs",
+              "RelativeToolTip": "Directory_Management_Data\\DTOs\\CategoryModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:24:17.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Directory_Management\\Backend\\Directory_Management\\Directory_Management\\Program.cs",
+              "RelativeDocumentMoniker": "Directory_Management\\Program.cs",
+              "ToolTip": "E:\\Directory_Management\\Backend\\Directory_Management\\Directory_Management\\Program.cs",
+              "RelativeToolTip": "Directory_Management\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:23:27.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusinessListingController.cs",
+              "DocumentMoniker": "E:\\Directory_Management\\Backend\\Directory_Management\\Directory_Management\\Controllers\\BusinessListingController.cs",
+              "RelativeDocumentMoniker": "Directory_Management\\Controllers\\BusinessListingController.cs",
+              "ToolTip": "E:\\Directory_Management\\Backend\\Directory_Management\\Directory_Management\\Controllers\\BusinessListingController.cs",
+              "RelativeToolTip": "Directory_Management\\Controllers\\BusinessListingController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T06:34:55.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
