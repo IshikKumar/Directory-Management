@@ -59,7 +59,7 @@
               City must contain only letters
             </mat-error>
             <mat-error *ngIf="businessForm.get('city')?.hasError('required') && businessForm.get('city')?.touched">
-              City IS required
+              City is required
             </mat-error>
           </mat-form-field>
         </div>
@@ -110,7 +110,7 @@
           <mat-form-field appearance="outline">
             <input matInput formControlName="website" placeholder="Enter Website" />
             <mat-error *ngIf="businessForm.get('website')?.hasError('pattern') && businessForm.get('website')?.touched">
-              Enter a valid URL (starting with http or https)
+              Enter a valid URL
             </mat-error>
           </mat-form-field>
         </div>
